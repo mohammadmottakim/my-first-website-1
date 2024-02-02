@@ -1,0 +1,26 @@
+
+body{font-family: 'Merriweather', serif;
+    font-family: 'Noto Sans', sans-serif;}
+
+h1{font-size: 60px;
+    
+    }
+    .peragrap{
+        font-size:large;
+        font-weight: bold;
+    }
+
+    .name-highlight{
+        color: orange;
+    }
+
+    .helf-width{
+        width: 40%;
+        float: left;
+        margin-left: 5%;
+        padding-left: 2%;
+
+    }
+    .helf-width img {
+        width: 100%;
+    }
