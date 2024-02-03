@@ -80,9 +80,9 @@ h1{font-size: 50px;
 }
 
 
-/* .experience-area-right{
-   text-align:unset;
-} */
+.experience-area-right{
+   margin-left: 20px;
+} 
 
 #full-stack{
     border-left: 7px solid;
